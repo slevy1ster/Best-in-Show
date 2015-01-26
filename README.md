@@ -5,4 +5,4 @@ I've done my best to make sure that all quotes are straight quotes.  If any scri
 
 Also included are one or more files that my 30 min talk lacked the time to cover.
 
-Note: the resources for this talk are at my blog: slevy1.wordpress.com - http://wp.me/pNIWX-10j (available 2/20/2015)
+Note: the resources for this talk are at my blog: slevy1.wordpress.com - http://wp.me/pNIWX-10j (starting 2/20/2015)
